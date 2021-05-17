@@ -1,0 +1,50 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "d635882e282768d04587",
+  "publicPath": "/static/",
+  "outputPath": "/Users/quench/Documents/GitHub/frontity/my-first-frontity-project/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "my-first-frontity-project": "my-first-frontity-project.module.js"
+  },
+  "assets": [],
+  "filteredAssets": 2,
+  "namedChunkGroups": {
+    "my-first-frontity-project": {
+      "chunks": [
+        "my-first-frontity-project"
+      ],
+      "assets": [
+        "my-first-frontity-project.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    },
+    {
+      "id": "my-first-frontity-project",
+      "files": [
+        "my-first-frontity-project.module.js"
+      ]
+    }
+  ]
+}
